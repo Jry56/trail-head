@@ -1,0 +1,7 @@
+# Trailhead Supply Co.
+
+> Trailhead Supply Co. is an online retailer of outdoor and camping gear: tents, packs, cook systems, footwear and trail apparel.
+
+This is a static fallback. The live, catalog-synced version is served from
+GET /llms.txt on the API (see server/src/controllers/seoController.js) --
+proxy that route at the site root in production for up-to-date content.
